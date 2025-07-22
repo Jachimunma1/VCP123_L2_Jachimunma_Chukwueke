@@ -641,7 +641,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Samurai Sprites_0
+      name: Samurai Run_1
       rect:
         serializedVersion: 2
         x: 39
@@ -663,7 +663,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_1
+      name: Samurai Run_2
       rect:
         serializedVersion: 2
         x: 131
@@ -685,7 +685,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_2
+      name: Samurai Run_3
       rect:
         serializedVersion: 2
         x: 227
@@ -707,7 +707,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_3
+      name: Samurai Run_4
       rect:
         serializedVersion: 2
         x: 324
@@ -729,7 +729,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_4
+      name: Samurai Run_5
       rect:
         serializedVersion: 2
         x: 421
@@ -751,7 +751,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_5
+      name: Samurai Run_6
       rect:
         serializedVersion: 2
         x: 518
@@ -773,7 +773,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_6
+      name: Samurai Run_7
       rect:
         serializedVersion: 2
         x: 614
@@ -795,7 +795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_7
+      name: Samurai Run_8
       rect:
         serializedVersion: 2
         x: 710
@@ -817,7 +817,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_8
+      name: Samurai Run_9
       rect:
         serializedVersion: 2
         x: 806
@@ -839,7 +839,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_9
+      name: Samurai Run_10
       rect:
         serializedVersion: 2
         x: 903
@@ -861,7 +861,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_10
+      name: Samurai Run_11
       rect:
         serializedVersion: 2
         x: 998
@@ -883,7 +883,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_11
+      name: Samurai Run_12
       rect:
         serializedVersion: 2
         x: 1093
@@ -905,7 +905,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_12
+      name: Samurai Run_13
       rect:
         serializedVersion: 2
         x: 1191
@@ -927,7 +927,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_13
+      name: Samurai Run_14
       rect:
         serializedVersion: 2
         x: 1288
@@ -949,7 +949,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_14
+      name: Samurai Run_15
       rect:
         serializedVersion: 2
         x: 1386
@@ -971,7 +971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_15
+      name: Samurai Run_16
       rect:
         serializedVersion: 2
         x: 1482
@@ -993,7 +993,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_16
+      name: Samurai Healing_1
       rect:
         serializedVersion: 2
         x: 37
@@ -1015,7 +1015,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_17
+      name: Samurai Healing_2
       rect:
         serializedVersion: 2
         x: 133
@@ -1037,7 +1037,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_18
+      name: Samurai Healing_3
       rect:
         serializedVersion: 2
         x: 229
@@ -1059,7 +1059,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_19
+      name: Samurai Healing_4
       rect:
         serializedVersion: 2
         x: 325
@@ -1081,7 +1081,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_20
+      name: Samurai Healing_5
       rect:
         serializedVersion: 2
         x: 421
@@ -1103,7 +1103,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_21
+      name: Samurai Healing_6
       rect:
         serializedVersion: 2
         x: 517
@@ -1125,7 +1125,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_22
+      name: Samurai Healing_7
       rect:
         serializedVersion: 2
         x: 613
@@ -1147,7 +1147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_23
+      name: Samurai Healing_8
       rect:
         serializedVersion: 2
         x: 709
@@ -1169,7 +1169,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_24
+      name: Samurai Healing_9
       rect:
         serializedVersion: 2
         x: 805
@@ -1191,7 +1191,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_25
+      name: Samurai Healing_10
       rect:
         serializedVersion: 2
         x: 901
@@ -1213,7 +1213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_26
+      name: Samurai Healing_11
       rect:
         serializedVersion: 2
         x: 997
@@ -1235,7 +1235,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_27
+      name: Samurai Healing_12
       rect:
         serializedVersion: 2
         x: 1093
@@ -1257,7 +1257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_28
+      name: Samurai Healing_13
       rect:
         serializedVersion: 2
         x: 1189
@@ -1279,7 +1279,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_29
+      name: Samurai Healing_14
       rect:
         serializedVersion: 2
         x: 1285
@@ -1301,7 +1301,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_30
+      name: Samurai Healing_15
       rect:
         serializedVersion: 2
         x: 1381
@@ -1323,7 +1323,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_31
+      name: Samurai Healing Empty_1
       rect:
         serializedVersion: 2
         x: 37
@@ -1345,7 +1345,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_32
+      name: Samurai Healing Empty_2
       rect:
         serializedVersion: 2
         x: 133
@@ -1367,7 +1367,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_33
+      name: Samurai Healing Empty_3
       rect:
         serializedVersion: 2
         x: 229
@@ -1389,7 +1389,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_34
+      name: Samurai Healing Empty_4
       rect:
         serializedVersion: 2
         x: 325
@@ -1411,7 +1411,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_35
+      name: Samurai Healing Empty_5
       rect:
         serializedVersion: 2
         x: 421
@@ -1433,7 +1433,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_36
+      name: Samurai Healing Empty_6
       rect:
         serializedVersion: 2
         x: 517
@@ -1455,7 +1455,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_37
+      name: Samurai Healing Empty_7
       rect:
         serializedVersion: 2
         x: 613
@@ -1477,7 +1477,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_38
+      name: Samurai Healing Empty_8
       rect:
         serializedVersion: 2
         x: 709
@@ -1499,7 +1499,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_39
+      name: Samurai Healing Empty_9
       rect:
         serializedVersion: 2
         x: 805
@@ -1521,7 +1521,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_40
+      name: Samurai Healing Empty_10
       rect:
         serializedVersion: 2
         x: 901
@@ -1543,7 +1543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_41
+      name: Samurai Healing Empty_11
       rect:
         serializedVersion: 2
         x: 997
@@ -1565,7 +1565,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_42
+      name: Samurai Healing Empty_12
       rect:
         serializedVersion: 2
         x: 1093
@@ -1587,7 +1587,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_43
+      name: Samurai Healing Empty_13
       rect:
         serializedVersion: 2
         x: 1189
@@ -1609,7 +1609,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_44
+      name: Samurai Healing Empty_14
       rect:
         serializedVersion: 2
         x: 1285
@@ -1631,7 +1631,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_45
+      name: Samurai Healing Empty_15
       rect:
         serializedVersion: 2
         x: 1381
@@ -1961,7 +1961,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_60
+      name: Samurai Walk_1
       rect:
         serializedVersion: 2
         x: 35
@@ -1983,7 +1983,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_61
+      name: Samurai Walk_2
       rect:
         serializedVersion: 2
         x: 131
@@ -2005,7 +2005,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_62
+      name: Samurai Walk_3
       rect:
         serializedVersion: 2
         x: 227
@@ -2027,7 +2027,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_63
+      name: Samurai Walk_4
       rect:
         serializedVersion: 2
         x: 324
@@ -2049,7 +2049,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_64
+      name: Samurai Walk_5
       rect:
         serializedVersion: 2
         x: 420
@@ -2071,7 +2071,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_65
+      name: Samurai Walk_6
       rect:
         serializedVersion: 2
         x: 515
@@ -2093,7 +2093,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_66
+      name: Samurai Walk_7
       rect:
         serializedVersion: 2
         x: 611
@@ -2115,7 +2115,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_67
+      name: Samurai Walk_8
       rect:
         serializedVersion: 2
         x: 707
@@ -2137,7 +2137,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_68
+      name: Samurai Walk_9
       rect:
         serializedVersion: 2
         x: 803
@@ -2159,7 +2159,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_69
+      name: Samurai Walk_10
       rect:
         serializedVersion: 2
         x: 900
@@ -2181,7 +2181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_70
+      name: Samurai Walk_11
       rect:
         serializedVersion: 2
         x: 996
@@ -2203,7 +2203,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_71
+      name: Samurai Walk_12
       rect:
         serializedVersion: 2
         x: 1091
@@ -2225,7 +2225,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_72
+      name: Samurai Jumpstart_1
       rect:
         serializedVersion: 2
         x: 1188
@@ -2247,7 +2247,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_73
+      name: Samurai Jumpstart_2
       rect:
         serializedVersion: 2
         x: 1284
@@ -2269,7 +2269,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_74
+      name: Samurai Jumpstart_3
       rect:
         serializedVersion: 2
         x: 1380
@@ -2291,7 +2291,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Idle_01
+      name: Samurai Idle_1
       rect:
         serializedVersion: 2
         x: 36
@@ -2313,7 +2313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_76
+      name: Samurai Idle_2
       rect:
         serializedVersion: 2
         x: 132
@@ -2335,7 +2335,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_77
+      name: Samurai Idle_3
       rect:
         serializedVersion: 2
         x: 228
@@ -2357,7 +2357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_78
+      name: Samurai Idle_4
       rect:
         serializedVersion: 2
         x: 324
@@ -2379,7 +2379,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_79
+      name: Samurai Idle_5
       rect:
         serializedVersion: 2
         x: 419
@@ -2401,7 +2401,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_80
+      name: Samurai Idle_6
       rect:
         serializedVersion: 2
         x: 514
@@ -2423,7 +2423,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_81
+      name: Samurai Idle_7
       rect:
         serializedVersion: 2
         x: 610
@@ -2445,7 +2445,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_82
+      name: Samurai Idle_8
       rect:
         serializedVersion: 2
         x: 706
@@ -2467,7 +2467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_83
+      name: Samurai Idle_9
       rect:
         serializedVersion: 2
         x: 802
@@ -2489,7 +2489,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_84
+      name: Samurai Idle_10
       rect:
         serializedVersion: 2
         x: 899
@@ -2511,7 +2511,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_85
+      name: Samurai Fall_1
       rect:
         serializedVersion: 2
         x: 993
@@ -2533,7 +2533,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_86
+      name: Samurai Fall_2
       rect:
         serializedVersion: 2
         x: 1089
@@ -2555,7 +2555,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_87
+      name: Samurai Fall_3
       rect:
         serializedVersion: 2
         x: 1185
@@ -2775,7 +2775,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_97
+      name: Samurai Attack3_1
       rect:
         serializedVersion: 2
         x: 908
@@ -2797,7 +2797,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_98
+      name: Samurai Attack3_2
       rect:
         serializedVersion: 2
         x: 1003
@@ -2819,7 +2819,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_99
+      name: Samurai Attack3_3
       rect:
         serializedVersion: 2
         x: 1094
@@ -2841,7 +2841,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_100
+      name: Samurai Attack3_4
       rect:
         serializedVersion: 2
         x: 1188
@@ -2863,7 +2863,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_101
+      name: Samurai Attack3_5
       rect:
         serializedVersion: 2
         x: 1284
@@ -2885,7 +2885,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_102
+      name: Samurai Attack3_6
       rect:
         serializedVersion: 2
         x: 1380
@@ -3083,7 +3083,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_111
+      name: Samurai Attack1_1
       rect:
         serializedVersion: 2
         x: 811
@@ -3105,7 +3105,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_112
+      name: Samurai Attack1_2
       rect:
         serializedVersion: 2
         x: 907
@@ -3127,7 +3127,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_113
+      name: Samurai Attack1_3
       rect:
         serializedVersion: 2
         x: 1003
@@ -3149,7 +3149,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_114
+      name: Samurai Attack1_4
       rect:
         serializedVersion: 2
         x: 1099
@@ -3171,7 +3171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_115
+      name: Samurai Attack1_5
       rect:
         serializedVersion: 2
         x: 1190
@@ -3193,7 +3193,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_116
+      name: Samurai Attack1_6
       rect:
         serializedVersion: 2
         x: 1285
@@ -3215,7 +3215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_117
+      name: Samurai Attack1_7
       rect:
         serializedVersion: 2
         x: 1381
@@ -3237,7 +3237,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_118
+      name: Samurai Dash_1
       rect:
         serializedVersion: 2
         x: 39
@@ -3281,7 +3281,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_120
+      name: Samurai Dash_2
       rect:
         serializedVersion: 2
         x: 133
@@ -3325,7 +3325,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_122
+      name: Samurai Dash_3
       rect:
         serializedVersion: 2
         x: 234
@@ -3369,7 +3369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_124
+      name: Samurai Dash_4
       rect:
         serializedVersion: 2
         x: 330
@@ -3413,11 +3413,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_126
+      name: Samurai Dash_5
       rect:
         serializedVersion: 2
         x: 421
-        y: 306
+        y: 307
         width: 23
         height: 28
       alignment: 7
@@ -3435,7 +3435,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_127
+      name: Samurai Dash_6
       rect:
         serializedVersion: 2
         x: 518
@@ -3457,7 +3457,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_128
+      name: Samurai Dash_7
       rect:
         serializedVersion: 2
         x: 612
@@ -3479,7 +3479,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_129
+      name: Samurai Dash_8
       rect:
         serializedVersion: 2
         x: 711
@@ -3501,7 +3501,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_130
+      name: Samurai Attack2_1
       rect:
         serializedVersion: 2
         x: 805
@@ -3523,7 +3523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_131
+      name: Samurai Attack2_2
       rect:
         serializedVersion: 2
         x: 900
@@ -3545,7 +3545,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_132
+      name: Samurai Attack2_3
       rect:
         serializedVersion: 2
         x: 996
@@ -3567,7 +3567,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_133
+      name: Samurai Attack2_4
       rect:
         serializedVersion: 2
         x: 1089
@@ -3589,7 +3589,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_134
+      name: Samurai Attack2_5
       rect:
         serializedVersion: 2
         x: 1185
@@ -3611,7 +3611,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_135
+      name: Samurai Attack2_6
       rect:
         serializedVersion: 2
         x: 1292
@@ -3633,7 +3633,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_136
+      name: Samurai Attack2_7
       rect:
         serializedVersion: 2
         x: 1388
@@ -4205,7 +4205,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_162
+      name: Samurai Jump_1
       rect:
         serializedVersion: 2
         x: 1000
@@ -4227,7 +4227,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_163
+      name: Samurai Jump_2
       rect:
         serializedVersion: 2
         x: 1096
@@ -4249,7 +4249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_164
+      name: Samurai Jump_3
       rect:
         serializedVersion: 2
         x: 1194
@@ -4271,7 +4271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_165
+      name: Samurai Transition_1
       rect:
         serializedVersion: 2
         x: 33
@@ -4293,10 +4293,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_166
+      name: Samurai Transition_2
       rect:
         serializedVersion: 2
-        x: 127
+        x: 128
         y: 14
         width: 28
         height: 36
@@ -4315,7 +4315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Samurai Sprites_167
+      name: Samurai Transition_3
       rect:
         serializedVersion: 2
         x: 223
@@ -4548,13 +4548,99 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Samurai Idle_01: 6369450496928636447
-      Samurai Sprites_0: -2682938983674438713
-      Samurai Sprites_1: 8760201734778539962
-      Samurai Sprites_10: -7693281753373920811
-      Samurai Sprites_100: 893102616111831839
-      Samurai Sprites_101: -8869892717247611511
-      Samurai Sprites_102: 854006870121906917
+      Samurai Attack1_1: -7462047930969692245
+      Samurai Attack1_2: -4703903781289270081
+      Samurai Attack1_3: 6091021852285937465
+      Samurai Attack1_4: 4112769232642707615
+      Samurai Attack1_5: -6948324237152551804
+      Samurai Attack1_6: -1618023112844181924
+      Samurai Attack1_7: 5218224175786488633
+      Samurai Attack2_1: 285456386299839268
+      Samurai Attack2_2: -635666013710086446
+      Samurai Attack2_3: 4425255986856044819
+      Samurai Attack2_4: 3122328607898362243
+      Samurai Attack2_5: 320813767792367604
+      Samurai Attack2_6: 6127761774184209830
+      Samurai Attack2_7: 1741210672021517324
+      Samurai Attack3_1: -6077025700519385518
+      Samurai Attack3_2: 297535874201490398
+      Samurai Attack3_3: 6022135092093890150
+      Samurai Attack3_4: 893102616111831839
+      Samurai Attack3_5: -8869892717247611511
+      Samurai Attack3_6: 854006870121906917
+      Samurai Dash_1: -6214606042952679182
+      Samurai Dash_2: 7801457363118140854
+      Samurai Dash_3: -6574045711948102352
+      Samurai Dash_4: 6236057067993487265
+      Samurai Dash_5: -6118805662505180231
+      Samurai Dash_6: -4028660531993214971
+      Samurai Dash_7: 8363530857110421199
+      Samurai Dash_8: 7948776037634761510
+      Samurai Fall_1: 382081866853806643
+      Samurai Fall_2: -1168295882132714502
+      Samurai Fall_3: -4077977242865574378
+      Samurai Healing Empty_1: 8613069205209467366
+      Samurai Healing Empty_10: -143815583424005822
+      Samurai Healing Empty_11: -6101431361411602213
+      Samurai Healing Empty_12: -862940692521669803
+      Samurai Healing Empty_13: -2106985912435396669
+      Samurai Healing Empty_14: 1161814366685877429
+      Samurai Healing Empty_15: 4291748083193649344
+      Samurai Healing Empty_2: 4992112992152934509
+      Samurai Healing Empty_3: 948472985793928507
+      Samurai Healing Empty_4: -1777505328330270959
+      Samurai Healing Empty_5: -669875896774405833
+      Samurai Healing Empty_6: -5773811195226919625
+      Samurai Healing Empty_7: -3993534157553728775
+      Samurai Healing Empty_8: 9185926632631993099
+      Samurai Healing Empty_9: 3230147058374600269
+      Samurai Healing_1: 6562791815664338034
+      Samurai Healing_10: 5752184403177588547
+      Samurai Healing_11: 8223035105058481727
+      Samurai Healing_12: -1879839690047469506
+      Samurai Healing_13: -1823006780795929194
+      Samurai Healing_14: -7393846341851984516
+      Samurai Healing_15: 1312847436471015058
+      Samurai Healing_2: -8654894851263275428
+      Samurai Healing_3: -3694760020988444855
+      Samurai Healing_4: 1915037588078968514
+      Samurai Healing_5: 705883181968471997
+      Samurai Healing_6: -3422681873022349905
+      Samurai Healing_7: -7622999618502666727
+      Samurai Healing_8: 11379837578575429
+      Samurai Healing_9: 3054675125377528838
+      Samurai Idle_1: 6369450496928636447
+      Samurai Idle_10: -3984635268766433156
+      Samurai Idle_2: 163793613587671272
+      Samurai Idle_3: -6299437344638572253
+      Samurai Idle_4: 2372478580337909636
+      Samurai Idle_5: 1106954946835242746
+      Samurai Idle_6: 982349374535987672
+      Samurai Idle_7: 5547087972856023694
+      Samurai Idle_8: 7658609512707815212
+      Samurai Idle_9: 774406133590451101
+      Samurai Jump_1: 2439837642870562034
+      Samurai Jump_2: -3584610151470382265
+      Samurai Jump_3: -8596156804779874950
+      Samurai Jumpstart_1: 7698424011119033386
+      Samurai Jumpstart_2: 8117607320136242082
+      Samurai Jumpstart_3: -4585651200900682597
+      Samurai Run_1: -2682938983674438713
+      Samurai Run_10: 9048742514354127555
+      Samurai Run_11: -7693281753373920811
+      Samurai Run_12: 8114622029265897443
+      Samurai Run_13: 3499727806723884260
+      Samurai Run_14: 3720288747760972674
+      Samurai Run_15: 4178195312979250723
+      Samurai Run_16: -1749927736102180734
+      Samurai Run_2: 8760201734778539962
+      Samurai Run_3: -9209816244447557220
+      Samurai Run_4: -7811866120302308031
+      Samurai Run_5: 617666395809862361
+      Samurai Run_6: 4004839926376090648
+      Samurai Run_7: 3107025533426650594
+      Samurai Run_8: -8524865311940733703
+      Samurai Run_9: -7236793959189925575
       Samurai Sprites_103: 770199834675613433
       Samurai Sprites_104: 9123364461863356262
       Samurai Sprites_105: -6537551875300267317
@@ -4562,40 +4648,14 @@ TextureImporter:
       Samurai Sprites_107: 4905339118413971846
       Samurai Sprites_108: 6927665243281238361
       Samurai Sprites_109: -6972737800665282597
-      Samurai Sprites_11: 8114622029265897443
       Samurai Sprites_110: -1160807077129267487
-      Samurai Sprites_111: -7462047930969692245
-      Samurai Sprites_112: -4703903781289270081
-      Samurai Sprites_113: 6091021852285937465
-      Samurai Sprites_114: 4112769232642707615
-      Samurai Sprites_115: -6948324237152551804
-      Samurai Sprites_116: -1618023112844181924
-      Samurai Sprites_117: 5218224175786488633
-      Samurai Sprites_118: -6214606042952679182
       Samurai Sprites_119: -5078169179615420865
-      Samurai Sprites_12: 3499727806723884260
-      Samurai Sprites_120: 7801457363118140854
       Samurai Sprites_121: 7644441300096454870
-      Samurai Sprites_122: -6574045711948102352
       Samurai Sprites_123: 5163899398797487319
-      Samurai Sprites_124: 6236057067993487265
       Samurai Sprites_125: 4831985162846777254
-      Samurai Sprites_126: -6118805662505180231
-      Samurai Sprites_127: -4028660531993214971
-      Samurai Sprites_128: 8363530857110421199
-      Samurai Sprites_129: 7948776037634761510
-      Samurai Sprites_13: 3720288747760972674
-      Samurai Sprites_130: 285456386299839268
-      Samurai Sprites_131: -635666013710086446
-      Samurai Sprites_132: 4425255986856044819
-      Samurai Sprites_133: 3122328607898362243
-      Samurai Sprites_134: 320813767792367604
-      Samurai Sprites_135: 6127761774184209830
-      Samurai Sprites_136: 1741210672021517324
       Samurai Sprites_137: 2347279566245195754
       Samurai Sprites_138: -5446700593678100302
       Samurai Sprites_139: 6344628453909570526
-      Samurai Sprites_14: 4178195312979250723
       Samurai Sprites_140: -6424758108039482419
       Samurai Sprites_141: 8950130707386609390
       Samurai Sprites_142: 76626930600968889
@@ -4606,7 +4666,6 @@ TextureImporter:
       Samurai Sprites_147: -3261646399918192273
       Samurai Sprites_148: -2337368370414293753
       Samurai Sprites_149: -4508357415311878752
-      Samurai Sprites_15: -1749927736102180734
       Samurai Sprites_150: 8283285175040931000
       Samurai Sprites_151: 801027121989785158
       Samurai Sprites_152: -1680497643466046145
@@ -4617,18 +4676,10 @@ TextureImporter:
       Samurai Sprites_157: -6795915351964603550
       Samurai Sprites_158: -6068344136475445764
       Samurai Sprites_159: -7984888266710409834
-      Samurai Sprites_16: 6562791815664338034
       Samurai Sprites_160: 9186391526019376283
       Samurai Sprites_161: -4356496792547987578
-      Samurai Sprites_162: 2439837642870562034
-      Samurai Sprites_163: -3584610151470382265
-      Samurai Sprites_164: -8596156804779874950
-      Samurai Sprites_165: -7614636782295942726
-      Samurai Sprites_166: -128583065135836923
-      Samurai Sprites_167: -1235833945275906693
       Samurai Sprites_168: -4201809433077432219
       Samurai Sprites_169: -2146514292697738612
-      Samurai Sprites_17: -8654894851263275428
       Samurai Sprites_170: -2661765881965538202
       Samurai Sprites_171: -9030645752528315486
       Samurai Sprites_172: -2987825463506792887
@@ -4636,42 +4687,10 @@ TextureImporter:
       Samurai Sprites_174: -7174547416390909115
       Samurai Sprites_175: -5683238291599077404
       Samurai Sprites_176: -3917890356892389584
-      Samurai Sprites_18: -3694760020988444855
-      Samurai Sprites_19: 1915037588078968514
-      Samurai Sprites_2: -9209816244447557220
-      Samurai Sprites_20: 705883181968471997
-      Samurai Sprites_21: -3422681873022349905
-      Samurai Sprites_22: -7622999618502666727
-      Samurai Sprites_23: 11379837578575429
-      Samurai Sprites_24: 3054675125377528838
-      Samurai Sprites_25: 5752184403177588547
-      Samurai Sprites_26: 8223035105058481727
-      Samurai Sprites_27: -1879839690047469506
-      Samurai Sprites_28: -1823006780795929194
-      Samurai Sprites_29: -7393846341851984516
-      Samurai Sprites_3: -7811866120302308031
-      Samurai Sprites_30: 1312847436471015058
-      Samurai Sprites_31: 8613069205209467366
-      Samurai Sprites_32: 4992112992152934509
-      Samurai Sprites_33: 948472985793928507
-      Samurai Sprites_34: -1777505328330270959
-      Samurai Sprites_35: -669875896774405833
-      Samurai Sprites_36: -5773811195226919625
-      Samurai Sprites_37: -3993534157553728775
-      Samurai Sprites_38: 9185926632631993099
-      Samurai Sprites_39: 3230147058374600269
-      Samurai Sprites_4: 617666395809862361
-      Samurai Sprites_40: -143815583424005822
-      Samurai Sprites_41: -6101431361411602213
-      Samurai Sprites_42: -862940692521669803
-      Samurai Sprites_43: -2106985912435396669
-      Samurai Sprites_44: 1161814366685877429
-      Samurai Sprites_45: 4291748083193649344
       Samurai Sprites_46: 8845078905811978996
       Samurai Sprites_47: 4444623856372610675
       Samurai Sprites_48: -861615299039208302
       Samurai Sprites_49: -3756241367119841729
-      Samurai Sprites_5: 4004839926376090648
       Samurai Sprites_50: -3151213384106224103
       Samurai Sprites_51: -3894433566066630652
       Samurai Sprites_52: 7424568307936383350
@@ -4682,39 +4701,9 @@ TextureImporter:
       Samurai Sprites_57: 3232419306649602900
       Samurai Sprites_58: -1536172842241805839
       Samurai Sprites_59: 8404894529645301913
-      Samurai Sprites_6: 3107025533426650594
-      Samurai Sprites_60: 9208771918913406335
-      Samurai Sprites_61: -1868425193452266990
-      Samurai Sprites_62: -2088705093751353600
-      Samurai Sprites_63: 1041482350917817245
-      Samurai Sprites_64: -3712488774049855937
-      Samurai Sprites_65: 7315197138143737692
-      Samurai Sprites_66: 4054965963309832154
-      Samurai Sprites_67: 6379827267115579576
-      Samurai Sprites_68: -532729470808237520
-      Samurai Sprites_69: 7246968795709276756
-      Samurai Sprites_7: -8524865311940733703
-      Samurai Sprites_70: -8898553129279792065
-      Samurai Sprites_71: -6919765592849692044
-      Samurai Sprites_72: 7698424011119033386
-      Samurai Sprites_73: 8117607320136242082
-      Samurai Sprites_74: -4585651200900682597
-      Samurai Sprites_76: 163793613587671272
-      Samurai Sprites_77: -6299437344638572253
-      Samurai Sprites_78: 2372478580337909636
-      Samurai Sprites_79: 1106954946835242746
-      Samurai Sprites_8: -7236793959189925575
-      Samurai Sprites_80: 982349374535987672
-      Samurai Sprites_81: 5547087972856023694
-      Samurai Sprites_82: 7658609512707815212
-      Samurai Sprites_83: 774406133590451101
-      Samurai Sprites_84: -3984635268766433156
-      Samurai Sprites_85: 382081866853806643
-      Samurai Sprites_86: -1168295882132714502
-      Samurai Sprites_87: -4077977242865574378
+      Samurai Sprites_75: -2004987334
       Samurai Sprites_88: -4267942857630600408
       Samurai Sprites_89: 8025013071826104686
-      Samurai Sprites_9: 9048742514354127555
       Samurai Sprites_90: -3769678590257673221
       Samurai Sprites_91: 2960818465824968153
       Samurai Sprites_92: 7820787873237450620
@@ -4722,9 +4711,21 @@ TextureImporter:
       Samurai Sprites_94: -338053070551483367
       Samurai Sprites_95: 8080950978361171481
       Samurai Sprites_96: 8062404801514932932
-      Samurai Sprites_97: -6077025700519385518
-      Samurai Sprites_98: 297535874201490398
-      Samurai Sprites_99: 6022135092093890150
+      Samurai Transition_1: -7614636782295942726
+      Samurai Transition_2: -128583065135836923
+      Samurai Transition_3: -1235833945275906693
+      Samurai Walk_1: 9208771918913406335
+      Samurai Walk_10: 7246968795709276756
+      Samurai Walk_11: -8898553129279792065
+      Samurai Walk_12: -6919765592849692044
+      Samurai Walk_2: -1868425193452266990
+      Samurai Walk_3: -2088705093751353600
+      Samurai Walk_4: 1041482350917817245
+      Samurai Walk_5: -3712488774049855937
+      Samurai Walk_6: 7315197138143737692
+      Samurai Walk_7: 4054965963309832154
+      Samurai Walk_8: 6379827267115579576
+      Samurai Walk_9: -532729470808237520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
